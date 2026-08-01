@@ -1,0 +1,137 @@
+[
+  {
+    "questions": [
+      "How can I track my order?",
+      "Where is my order?",
+      "Can I check my delivery status?",
+      "How do I track my package?"
+    ],
+    "answer": "You can track your order from the Orders section of your account. Open the relevant order and select Track Order to view the latest delivery status."
+  },
+  {
+    "questions": [
+      "How long does delivery take?",
+      "When will my order arrive?",
+      "What is the estimated delivery time?",
+      "How many days does shipping take?"
+    ],
+    "answer": "Standard delivery usually takes three to seven business days. The exact delivery date depends on your location and the shipping method selected at checkout."
+  },
+  {
+    "questions": [
+      "What is your return policy?",
+      "Can I return an item?",
+      "How do I return a product?",
+      "Do you accept returns?"
+    ],
+    "answer": "Items can be returned within 30 days of delivery if they are unused and in their original condition. Open the order in your account and select Return Item to begin the process."
+  },
+  {
+    "questions": [
+      "Can I cancel my order?",
+      "How do I cancel an order?",
+      "I want to cancel my purchase",
+      "Is order cancellation possible?"
+    ],
+    "answer": "You can cancel an order before it has been shipped. Open the order in your account and select Cancel Order. Once the order has shipped, you will need to request a return after delivery."
+  },
+  {
+    "questions": [
+      "Which payment methods do you accept?",
+      "How can I pay?",
+      "Can I pay by card?",
+      "What payment options are available?"
+    ],
+    "answer": "We accept major debit and credit cards, supported digital wallets, and other payment methods displayed during checkout."
+  },
+  {
+    "questions": [
+      "What should I do if my item is damaged?",
+      "I received a damaged product",
+      "My order arrived broken",
+      "How do I report a defective item?"
+    ],
+    "answer": "Report the damaged item through the Orders section and include clear photographs of the product and packaging. The support team will review the request and arrange a replacement or refund."
+  },
+  {
+    "questions": [
+      "When will I receive my refund?",
+      "How long does a refund take?",
+      "Where is my refund?",
+      "What is the refund processing time?"
+    ],
+    "answer": "Approved refunds are usually processed within five to ten business days. The time required for the amount to appear in your account depends on your bank or payment provider."
+  },
+  {
+    "questions": [
+      "Can I exchange an item?",
+      "How do product exchanges work?",
+      "I need a different size",
+      "Can I replace my product?"
+    ],
+    "answer": "Eligible products can be exchanged if the requested replacement is available. Start the exchange from the Orders section within the return period."
+  },
+  {
+    "questions": [
+      "Can I change my delivery address?",
+      "How do I update my shipping address?",
+      "I entered the wrong address",
+      "Can the order address be changed?"
+    ],
+    "answer": "The delivery address can only be changed before the order is processed for shipping. Contact customer support immediately and provide the order number and correct address."
+  },
+  {
+    "questions": [
+      "Do you offer international shipping?",
+      "Can you deliver to another country?",
+      "Which countries do you ship to?",
+      "Is worldwide delivery available?"
+    ],
+    "answer": "International shipping availability depends on the destination and product. Enter your address during checkout to see whether delivery is available and what charges may apply."
+  },
+  {
+    "questions": [
+      "How can I reset my password?",
+      "I forgot my password",
+      "I cannot log in",
+      "How do I recover my account?"
+    ],
+    "answer": "Select Forgot Password on the login page and enter your registered email address. You will receive instructions for creating a new password."
+  },
+  {
+    "questions": [
+      "How do I use a discount code?",
+      "Where can I enter a promo code?",
+      "My coupon code is not working",
+      "How can I apply a voucher?"
+    ],
+    "answer": "Enter the discount code in the promotional-code field during checkout and select Apply. Check the code's spelling, expiry date, and eligibility conditions if it is not accepted."
+  },
+  {
+    "questions": [
+      "Can I modify my order?",
+      "Can I add another item to my order?",
+      "How do I change my order?",
+      "Can I remove an item after ordering?"
+    ],
+    "answer": "Orders generally cannot be modified after they are confirmed. You may cancel the order before shipping and place a new order with the correct products."
+  },
+  {
+    "questions": [
+      "What happens if an item is out of stock?",
+      "When will a product be available again?",
+      "Can you notify me when an item returns?",
+      "The product I want is unavailable"
+    ],
+    "answer": "Out-of-stock products may become available again, but restocking dates can vary. Use the availability notification option on the product page when it is offered."
+  },
+  {
+    "questions": [
+      "How can I contact customer support?",
+      "I need help with my order",
+      "How do I speak to support?",
+      "Where can I submit a complaint?"
+    ],
+    "answer": "You can contact customer support through the Help or Contact Us section. Include your order number and a clear description of the problem for faster assistance."
+  }
+]
